@@ -1,6 +1,6 @@
 ## Computer Networks Lab, Inha Univ
 
-Welcome to Inha University Computer Network Lab's GitHub organization.  
+Welcome to Inha University Computer Networks Lab's GitHub organization.  
 
 We are currently researching cloud computing and IoT from various perspectives.  
 
