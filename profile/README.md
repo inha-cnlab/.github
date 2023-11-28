@@ -9,5 +9,4 @@ We are working on many projects related to our research areas.
 
 
 
-* You can visit our lab page with the link below.
-<a href="https://inha-cnlab.github.io">Lab Page</a>
+* You can visit our lab page with the <a href="https://inha-cnlab.github.io">link</a>.
